@@ -39,7 +39,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com/chats/q97oG6qkSmwVmSt4LuqRZ)
-- [NightCafe] (https://creator.nightcafe.studio/)
+- [NightCafe](https://creator.nightcafe.studio/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -75,7 +75,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.linkedin.com/in/fredericomoreira-exe">
+        href="https://www.linkedin.com/in/fredericomoreira-.exe">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
