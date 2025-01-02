@@ -65,29 +65,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Iniciante
-
-<p>
-    <p>&nbsp&nbsp&nbspFrederico Moreira<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/fsmoreira001/">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/fredericomoreira-.exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/fredericosmor.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
 ---
 
-⌨️ com 💜 por [Frederico Moreira](https://github.com/fsmoreira001)
+⌨️ por [Frederico Moreira](https://github.com/fsmoreira001)
