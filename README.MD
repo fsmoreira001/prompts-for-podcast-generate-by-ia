@@ -64,10 +64,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Iniciante
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspFrederico Moreira<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/fsmoreira001/">
